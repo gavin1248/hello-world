@@ -6,3 +6,5 @@ Gavin Hamilton
 Repository for testing
 
 Completed git tutorial on github
+
+Tested Git with VS Code
