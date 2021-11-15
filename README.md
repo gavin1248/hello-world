@@ -5,4 +5,4 @@ Gavin Hamilton
 
 Repository for testing
 
-Testing git changes
+Completed git tutorial on github
